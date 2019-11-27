@@ -1,0 +1,4 @@
+# Project exclude paths
+/eureka-application/.gradle/
+/eureka-application/build/
+/eureka-application/build/classes/java/main/
